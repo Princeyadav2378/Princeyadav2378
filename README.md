@@ -20,7 +20,7 @@
     <a href="https://fb.com/princeyadav">
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook  Badge"/>
   </a>
-    <a href="https://LinkedIn.com/princeyadav2378">
+    <a href="https://LinkedIn.com/prince-yadav-62257924">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn  Badge"/>
   </a>
 </div>
