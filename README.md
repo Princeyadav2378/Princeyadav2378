@@ -9,3 +9,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
+### Connect With Me:
+<div id="badges">
+  <a href="https://github.com/princeyadav2378">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github  Badge"/>
+  </a>
+</div>
