@@ -25,5 +25,18 @@
   </a>
 </div>
 
-### Language & Tool
-<div></div>
+### Language & Tools:
+<!-- [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,jquery,mysql,html,css,github,visualstudio)](https://skillicons.dev) -->
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,jquery,mysql,html,css,github,visualstudio&perline=5)](https://skillicons.dev)
+
+<!--  Commented Code 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,jquery,mysql,html,css,github,visualstudio" />
+  </a>
+</p>
+-->
+![Prince Yadav's GitHub stats](https://github-readme-stats.vercel.app/api?username=princeyadav2378&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princeyadav2378&theme=dark)
+
