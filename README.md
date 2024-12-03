@@ -7,7 +7,7 @@
 - 💬 Ask me about C#, SQL Server, .NET MVC
 - 📫 How to reach me: princeyadav2378@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Coding, Learning book
 
 ### Connect With Me:
 <div id="badges">
